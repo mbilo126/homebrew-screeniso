@@ -1,6 +1,6 @@
 cask "screeniso" do
-  version "0.1.0"
-  sha256 "b4276b63e5efa1098888672c912cc04b038f66c75fa5ed39658a5f8886ddcf56"
+  version "0.1.1"
+  sha256 "9dc728eb912dcd4df85e03b172140665f4c8d207444183cb4f6ccf3ef8cc67cc"
 
   url "https://github.com/mbilo126/screen-iso/releases/download/v#{version}/ScreenISO-#{version}.zip"
   name "ScreenISO"
